@@ -5,7 +5,7 @@
     "embed_id": "25564238",
     "handle": "depaul-innovation-lab",
     "name": "DePaul iD Lab",
-    "followers_count": "1631",
+    "followers_count": "1636",
     "organization_type": "IT Services and IT Consulting",
     "location": "Chicago, IL",
     "website_url": "https://www.depaulidlab.com/",
@@ -13,65 +13,81 @@
   },
   "posts": [
     {
+      "id": "7368643870663872512",
+      "post_date_time": "2025-09-02T22:58:21+08:00",
+      "handle": "depaul-innovation-lab",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7368643870663872512",
+      "is_pinned": "1",
+      "like_count": "21",
+      "comment_count": "0",
+      "is_reposted": "0",
+      "description": "<!---->Member Spotlight: Meet<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/vishakha-kamothi-a4bbb1152/\" id=\"ember557\" class=\"ember-view\"><!---->Vishakha Kamothi<!----></a></span><!---->. She works at the lab as a Data Scientist. Here is what she has to say about working at the iD Lab.<!---->",
+      "video_link": "",
+      "post_order": "0",
+      "image_files": [
+        "/images/7368643870663872512-images-0.jpg"
+      ]
+    },
+    {
       "id": "7364313481631731714",
-      "post_date_time": "2025-08-24T11:10:17+08:00",
+      "post_date_time": "2025-08-27T10:53:22+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7364313481631731714",
       "is_pinned": "0",
-      "like_count": "38",
+      "like_count": "41",
       "comment_count": "2",
       "is_reposted": "1",
       "description": "",
       "video_link": "",
-      "post_order": "0",
+      "post_order": "1",
       "image_files": [
         "/images/7364313481631731714-images-0.jpg"
       ]
     },
     {
       "id": "7364295215051890689",
-      "post_date_time": "2025-08-24T11:05:19+08:00",
+      "post_date_time": "2025-08-27T10:48:22+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7364295215051890689",
       "is_pinned": "0",
-      "like_count": "38",
+      "like_count": "41",
       "comment_count": "2",
       "is_reposted": "0",
       "description": "<!---->We are pleased to announce our ODi focus for 2025: From Insights to Strategic Execution!<!---->",
       "video_link": "",
-      "post_order": "1",
+      "post_order": "2",
       "image_files": [
         "/images/7364295215051890689-images-0.jpg"
       ]
     },
     {
       "id": "7361396195421835268",
-      "post_date_time": "2025-08-17T11:00:20+08:00",
+      "post_date_time": "2025-08-20T10:43:24+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7361396195421835268",
       "is_pinned": "0",
-      "like_count": "350",
+      "like_count": "369",
       "comment_count": "6",
       "is_reposted": "0",
-      "description": "<!---->The<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><span class=\"white-space-pre\"> </span>recently wrapped up its second AI Summer Camp for high school students!<!----><span><br></span><!---->Over the course of 3.5 weeks, rising juniors and seniors explored the world of artificial intelligence from foundational concepts to hands-on applications. Guided by the iD Lab staff, students collaborated on AI-powered solutions for<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, applying their knowledge to real-world challenges.<!----><span><br></span><!---->As part of the program, students also visited leading organizations to gain firsthand experience and learn about their remarkable AI products and innovations.<!----><span><br></span><!---->A huge thank you to everyone who helped make this camp a outstanding success!<!---->",
+      "description": "<!---->The<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><span class=\"white-space-pre\"> </span>recently wrapped up its second AI Summer Camp for high school students!<!----><span><br></span><!---->Over the course of 3.5 weeks, rising juniors and seniors explored the world of artificial intelligence from foundational concepts to hands-on applications. Guided by the iD Lab staff, students collaborated on AI-powered solutions for<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, applying their knowledge to real-world challenges.<!----><span><br></span><!---->As part of the program, students also visited leading organizations to gain firsthand experience and learn about their remarkable AI products and innovations.<!----><span><br></span><!---->A huge thank you to everyone who helped make this camp a outstanding success!<!---->",
       "video_link": "",
-      "post_order": "2",
+      "post_order": "3",
       "image_files": [
         "/images/7361396195421835268-images-0.jpg"
       ]
     },
     {
       "id": "7359221937438404608",
-      "post_date_time": "2025-08-10T10:55:22+08:00",
+      "post_date_time": "2025-08-13T10:38:25+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7359221937438404608",
       "is_pinned": "0",
       "like_count": "65",
       "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->As the culmination of the<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><span class=\"white-space-pre\"> </span>AI Summer Camp 2025, four student teams presented innovative GenAI projects focused on building Retrieval-Augmented Generation (RAG) systems for medical devices research.<!----><span><br></span><span><br></span><!---->Each team explored distinct approaches from Graph RAG and advanced chunking techniques to thoughtful evaluation strategies by tackling complex challenges in healthcare AI. The architectures designed presented an impressive understanding of real-world AI applications.<!----><span><br></span><span><br></span><!---->Congratulations to winning team<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanmay-garg-5305a8342/\" id=\"ember662\" class=\"ember-view\"><!---->Tanmay Garg<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/joseph-nowak-410538376/\" id=\"ember663\" class=\"ember-view\"><!---->Joe Nowak<!----></a></span><span class=\"white-space-pre\"> </span>and Sanjith Yelavarthy for an outstanding showing at the AI Summer Camp showcase!<!----><span><br></span><span><br></span><!---->A huge shoutout to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/aarathi-maheswaraguru-5b9618374/\" id=\"ember664\" class=\"ember-view\"><!---->Aarathi Maheswaraguru<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/rian-jain-89820a378/\" id=\"ember665\" class=\"ember-view\"><!---->Rian Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/carlos-munoz-952557346/\" id=\"ember666\" class=\"ember-view\"><!---->Carlos Munoz<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/angelina-huang-1b1655343/\" id=\"ember667\" class=\"ember-view\"><!---->Angelina Huang<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nicole-niewiadomski-90b6b729b/\" id=\"ember668\" class=\"ember-view\"><!---->Nicole Niewiadomski<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jenine-jain-54a53131b/\" id=\"ember669\" class=\"ember-view\"><!---->Jenine Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/sreechand-uppalapu-0a1506294/\" id=\"ember670\" class=\"ember-view\"><!---->Sreechand Uppalapu<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanaydoshi/\" id=\"ember671\" class=\"ember-view\"><!---->Tanay Doshi<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/luqman-syed-a80444320/\" id=\"ember672\" class=\"ember-view\"><!---->Luqman Syed<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yash-kaushik-22a515376/\" id=\"ember673\" class=\"ember-view\"><!---->Yash Kaushik<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/zachary-e-wong/\" id=\"ember674\" class=\"ember-view\"><!---->Zachary Wong<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/patryk-kasprzyk-5a390a31b/\" id=\"ember675\" class=\"ember-view\"><!---->Patryk Kasprzyk<!----></a></span><span class=\"white-space-pre\"> </span>for your hard work and creativity.<!----><span><br></span><span><br></span><!---->The session concluded with insightful feedback and engaging discussion, thanks to our amazing judges<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember676\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><!---->, Director of IT and Data Analytics at<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yele-adelakun-8019266/\" id=\"ember677\" class=\"ember-view\"><!---->Yele Adelakun<!----></a></span><!---->, Founder &amp; Director of the<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><!---->.<!---->",
+      "description": "<!---->As the culmination of the<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><span class=\"white-space-pre\"> </span>AI Summer Camp 2025, four student teams presented innovative GenAI projects focused on building Retrieval-Augmented Generation (RAG) systems for medical devices research.<!----><span><br></span><span><br></span><!---->Each team explored distinct approaches from Graph RAG and advanced chunking techniques to thoughtful evaluation strategies by tackling complex challenges in healthcare AI. The architectures designed presented an impressive understanding of real-world AI applications.<!----><span><br></span><span><br></span><!---->Congratulations to winning team<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanmay-garg-5305a8342/\" id=\"ember596\" class=\"ember-view\"><!---->Tanmay Garg<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/joseph-nowak-410538376/\" id=\"ember597\" class=\"ember-view\"><!---->Joe Nowak<!----></a></span><span class=\"white-space-pre\"> </span>and Sanjith Yelavarthy for an outstanding showing at the AI Summer Camp showcase!<!----><span><br></span><span><br></span><!---->A huge shoutout to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/aarathi-maheswaraguru-5b9618374/\" id=\"ember598\" class=\"ember-view\"><!---->Aarathi Maheswaraguru<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/rian-jain-89820a378/\" id=\"ember599\" class=\"ember-view\"><!---->Rian Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/carlos-munoz-952557346/\" id=\"ember600\" class=\"ember-view\"><!---->Carlos Munoz<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/angelina-huang-1b1655343/\" id=\"ember601\" class=\"ember-view\"><!---->Angelina Huang<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nicole-niewiadomski-90b6b729b/\" id=\"ember602\" class=\"ember-view\"><!---->Nicole Niewiadomski<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jenine-jain-54a53131b/\" id=\"ember603\" class=\"ember-view\"><!---->Jenine Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/sreechand-uppalapu-0a1506294/\" id=\"ember604\" class=\"ember-view\"><!---->Sreechand Uppalapu<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanaydoshi/\" id=\"ember605\" class=\"ember-view\"><!---->Tanay Doshi<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/luqman-syed-a80444320/\" id=\"ember606\" class=\"ember-view\"><!---->Luqman Syed<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yash-kaushik-22a515376/\" id=\"ember607\" class=\"ember-view\"><!---->Yash Kaushik<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/zachary-e-wong/\" id=\"ember608\" class=\"ember-view\"><!---->Zachary Wong<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/patryk-kasprzyk-5a390a31b/\" id=\"ember609\" class=\"ember-view\"><!---->Patryk Kasprzyk<!----></a></span><span class=\"white-space-pre\"> </span>for your hard work and creativity.<!----><span><br></span><span><br></span><!---->The session concluded with insightful feedback and engaging discussion, thanks to our amazing judges<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember610\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><!---->, Director of IT and Data Analytics at<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yele-adelakun-8019266/\" id=\"ember611\" class=\"ember-view\"><!---->Yele Adelakun<!----></a></span><!---->, Founder &amp; Director of the<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><!---->.<!---->",
       "video_link": "",
-      "post_order": "3",
+      "post_order": "4",
       "image_files": [
         "/images/7359221937438404608-images-0.jpg",
         "/images/7359221937438404608-images-1.jpg",
@@ -100,14 +116,14 @@
     },
     {
       "id": "7355960464607989762",
-      "post_date_time": "2025-07-31T10:45:25+08:00",
+      "post_date_time": "2025-08-03T10:28:28+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7355960464607989762",
       "is_pinned": "0",
-      "like_count": "79",
+      "like_count": "82",
       "comment_count": "4",
       "is_reposted": "0",
-      "description": "<!---->Our Summer Camp students visited<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/ccc-intelligent-solutions/\" data-test-app-aware-link=\"\"><span><span><!---->CCC Intelligent Solutions<!----></span></span></a><span class=\"white-space-pre\"> </span>NXT Lab, where they had the opportunity to learn about their innovative AI products. It was an incredibly informative and engaging experience. To make the visit even more special, the students received thoughtful gifts, which they absolutely loved!<!----><span><br></span><!---->Thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/reza-rooholamini/\" id=\"ember741\" class=\"ember-view\"><!---->Reza Rooholamini<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/gelareh-kalantari-200947226/\" id=\"ember742\" class=\"ember-view\"><!---->Gelareh Kalantari<!----></a></span><span class=\"white-space-pre\"> </span>for organizing such a meaningful and memorable visit!<!---->",
+      "description": "<!---->Our Summer Camp students visited<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/ccc-intelligent-solutions/\" data-test-app-aware-link=\"\"><span><span><!---->CCC Intelligent Solutions<!----></span></span></a><span class=\"white-space-pre\"> </span>NXT Lab, where they had the opportunity to learn about their innovative AI products. It was an incredibly informative and engaging experience. To make the visit even more special, the students received thoughtful gifts, which they absolutely loved!<!----><span><br></span><!---->Thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/reza-rooholamini/\" id=\"ember693\" class=\"ember-view\"><!---->Reza Rooholamini<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/gelareh-kalantari-200947226/\" id=\"ember694\" class=\"ember-view\"><!---->Gelareh Kalantari<!----></a></span><span class=\"white-space-pre\"> </span>for organizing such a meaningful and memorable visit!<!---->",
       "video_link": "",
       "post_order": "5",
       "image_files": [
@@ -118,14 +134,14 @@
     },
     {
       "id": "7354148396682629120",
-      "post_date_time": "2025-07-31T10:40:26+08:00",
+      "post_date_time": "2025-08-03T10:23:30+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7354148396682629120",
       "is_pinned": "0",
-      "like_count": "53",
+      "like_count": "54",
       "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->Summer Camp students had a great session with<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember775\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><span class=\"white-space-pre\"> </span>and Wenzhao (Sylvia) Bi&nbsp;, who led an engaging talk on GenAI. They shared their career journeys, offered insights on choosing the right AI tools, and highlighted the irreplaceable human skills that define responsible AI. The session wrapped up with a thoughtful and interactive Q&amp;A.<!----><span><br></span><!---->Thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember776\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><span class=\"white-space-pre\"> </span>and Wenzhao (Sylvia) Bi for sharing your time, experience, and energy with our students!<!---->",
+      "description": "<!---->Summer Camp students had a great session with<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember716\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><span class=\"white-space-pre\"> </span>and Wenzhao (Sylvia) Bi&nbsp;, who led an engaging talk on GenAI. They shared their career journeys, offered insights on choosing the right AI tools, and highlighted the irreplaceable human skills that define responsible AI. The session wrapped up with a thoughtful and interactive Q&amp;A.<!----><span><br></span><!---->Thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember717\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><span class=\"white-space-pre\"> </span>and Wenzhao (Sylvia) Bi for sharing your time, experience, and energy with our students!<!---->",
       "video_link": "",
       "post_order": "6",
       "image_files": [
@@ -135,14 +151,14 @@
     },
     {
       "id": "7353061249376505858",
-      "post_date_time": "2025-07-31T10:35:28+08:00",
+      "post_date_time": "2025-08-03T10:18:31+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7353061249376505858",
       "is_pinned": "0",
       "like_count": "48",
       "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->Students visited<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/morningstar/\" data-test-app-aware-link=\"\"><span><span><!---->Morningstar<!----></span></span></a><!---->, where they had the opportunity to interact with Mo,\u201d Morningstar\u2019s enterprise-level AI.<span class=\"white-space-pre\"> </span><span><br></span><!---->A big thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nate-hartauer-63708a51/\" id=\"ember598\" class=\"ember-view\"><!---->Nate Hartauer<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/matthew-richmond-423581220/\" id=\"ember599\" class=\"ember-view\"><!---->Matthew Richmond<!----></a></span><span class=\"white-space-pre\"> </span>for your incredible support and for sharing your knowledge with our students!<!---->",
+      "description": "<!---->Students visited<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/morningstar/\" data-test-app-aware-link=\"\"><span><span><!---->Morningstar<!----></span></span></a><!---->, where they had the opportunity to interact with Mo,\u201d Morningstar\u2019s enterprise-level AI.<span class=\"white-space-pre\"> </span><span><br></span><!---->A big thank you to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nate-hartauer-63708a51/\" id=\"ember738\" class=\"ember-view\"><!---->Nate Hartauer<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/matthew-richmond-423581220/\" id=\"ember739\" class=\"ember-view\"><!---->Matthew Richmond<!----></a></span><span class=\"white-space-pre\"> </span>for your incredible support and for sharing your knowledge with our students!<!---->",
       "video_link": "",
       "post_order": "7",
       "image_files": [
@@ -154,14 +170,14 @@
     },
     {
       "id": "7351249297339793409",
-      "post_date_time": "2025-07-31T10:30:29+08:00",
+      "post_date_time": "2025-08-03T10:13:33+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7351249297339793409",
       "is_pinned": "0",
       "like_count": "62",
       "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->Had a great time at the<span class=\"white-space-pre\"> </span><a class=\"DXNSlbosknJbpjnPjPkcXtduFQjWIw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/kpmg-us/\" data-test-app-aware-link=\"\"><span><span><!---->KPMG US<!----></span></span></a><span class=\"white-space-pre\"> </span>Chicago office for a case study workshop. Big thanks to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/dwayne-prosko-a1350/\" id=\"ember906\" class=\"ember-view\"><!---->Dwayne Prosko<!----></a></span><span class=\"white-space-pre\"> </span>for leading such an insightful session.<!---->",
+      "description": "<!---->Had a great time at the<span class=\"white-space-pre\"> </span><a class=\"GyTwnhWuYakBGYWvebeZLdOKsbFnHfEaiMcrw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/kpmg-us/\" data-test-app-aware-link=\"\"><span><span><!---->KPMG US<!----></span></span></a><span class=\"white-space-pre\"> </span>Chicago office for a case study workshop. Big thanks to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/dwayne-prosko-a1350/\" id=\"ember673\" class=\"ember-view\"><!---->Dwayne Prosko<!----></a></span><span class=\"white-space-pre\"> </span>for leading such an insightful session.<!---->",
       "video_link": "",
       "post_order": "8",
       "image_files": [
@@ -830,24 +846,6 @@
         "/images/7263256952275656704-images-0.jpg",
         "/images/7263256952275656704-images-1.jpg",
         "/images/7263256952275656704-images-2.jpg"
-      ]
-    },
-    {
-      "id": "7262893158533857280",
-      "post_date_time": "2024-11-17T08:07:09+08:00",
-      "handle": "depaul-innovation-lab",
-      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7262893158533857280",
-      "is_pinned": "0",
-      "like_count": "35",
-      "comment_count": "1",
-      "is_reposted": "0",
-      "description": "<!---->\ud83d\udca1 Shaping the Future of Responsible AI: Insights from Our Latest ODi Conference Panel Discussion<span class=\"white-space-pre\"> </span><span><br></span><span><br></span><!---->The iD Lab was thrilled to host a powerful panel discussion on \"Designing Responsible AI with Humans\" at the recent ODi conference! A huge thank you to our distinguished panelists -<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/joellenkames/\" id=\"ember2042\" class=\"ember-view\"><!---->JoEllen Kames<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/thomasvantony/\" id=\"ember2043\" class=\"ember-view\"><!---->Thomas Antony<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/mjanicki/\" id=\"ember2044\" class=\"ember-view\"><!---->Michal Janicki<!----></a></span><span class=\"white-space-pre\"> </span>- who offered deep insights, moderated skillfully by<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/stellasarbalieva/\" id=\"ember2045\" class=\"ember-view\"><!---->Stella Sarbalieva<!----></a></span><!---->, UX Manager at Deloitte.<span class=\"white-space-pre\"> </span><span><br></span><span><br></span><!---->Here are some of the valuable insights they shared:<!----><span><br></span><span><br></span><!---->\ud83d\udd39 The Power of Storytelling &amp; Setting Expectations<!----><span><br></span><span class=\"white-space-pre\"> </span>Every impactful AI initiative starts with a story. Our panel emphasized the importance of setting expectations early, agreeing on tools and methodologies to shape projects responsibly. Understanding these foundations can transform an abstract idea into a concrete journey.<!----><span><br></span><span><br></span><!---->\ud83d\udd39 Focus on Core Skills: Design Thinking &amp; Small Projects<!----><span><br></span><span class=\"white-space-pre\"> </span>For students and aspiring designers, it\u2019s not always about learning something new; sometimes, it\u2019s about refining what you already know. Skills like design thinking and hands-on projects are key in building a sustainable approach to AI.<!----><span><br></span><span><br></span><!---->\ud83d\udd39 From Idea to Business Case: The AI Journey<!----><span><br></span><span class=\"white-space-pre\"> </span>Building responsible AI isn\u2019t just about the initial idea. Our experts highlighted the importance of shaping a business case, crafting a narrative, and testing a prototype. This structured approach transforms abstract AI ideas into solutions that truly resonate with users.<!----><span><br></span><span><br></span><!---->\ud83d\udd39 The Evolving Role of Designers in an AI-driven World<!----><span><br></span><span class=\"white-space-pre\"> </span>AI\u2019s growth brings new challenges and exciting changes for design roles. As we move forward, designers will find themselves at the intersection of technology, ethics, and user experience, responsible for not only creating but guiding AI systems that prioritize human values.<!----><span><br></span><span><br></span><!---->We\u2019re excited to see how these ideas will shape the future of AI.<!----><span><br></span><span><br></span><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23responsibleai&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>ResponsibleAI</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23uxdesign&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>UXDesign</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23designthinking&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>DesignThinking</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23odiconference&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>ODiConference</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23futureofdesign&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>FutureOfDesign</span></a>",
-      "video_link": "",
-      "post_order": "47",
-      "image_files": [
-        "/images/7262893158533857280-images-0.jpg",
-        "/images/7262893158533857280-images-1.jpg",
-        "/images/7262893158533857280-images-2.jpg"
       ]
     }
   ]
