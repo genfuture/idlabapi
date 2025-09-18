@@ -5,7 +5,7 @@
     "embed_id": "25564238",
     "handle": "depaul-innovation-lab",
     "name": "DePaul iD Lab",
-    "followers_count": "1646",
+    "followers_count": "1654",
     "organization_type": "IT Services and IT Consulting",
     "location": "Chicago, IL",
     "website_url": "https://www.depaulidlab.com/",
@@ -13,99 +13,152 @@
   },
   "posts": [
     {
-      "id": "7372267812028874752",
-      "post_date_time": "2025-09-13T11:10:19+08:00",
+      "id": "7373717337478266880",
+      "post_date_time": "2025-09-17T10:59:08+08:00",
       "handle": "depaul-innovation-lab",
-      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7372267812028874752",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7373717337478266880",
       "is_pinned": "1",
-      "like_count": "20",
-      "comment_count": "0",
+      "like_count": "31",
+      "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->A Big Thank You to<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/mayer-brown/\" data-test-app-aware-link=\"\"><span><span><!---->Mayer Brown<!----></span></span></a><!---->, Our Platinum Sponsor for ODi 2025!<!----><span><br></span><!---->We are especially excited to share that this year\u2019s conference will be hosted at<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/mayer-brown/\" data-test-app-aware-link=\"\"><span><span><!---->Mayer Brown<!----></span></span></a><!---->. Thank you for your generous contribution and for providing us with this incredible opportunity to bring ODi 2025 at your venue.<!---->",
+      "description": "<!---->ODi 2025 Gold Sponsors!<!----><span><br></span><span><br></span><!---->We\u2019re grateful to our Gold Sponsors:<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/kpmg-us/\" data-test-app-aware-link=\"\"><span><span><!---->KPMG US<!----></span></span></a><!---->,<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/walgreens/\" data-test-app-aware-link=\"\"><span><span><!---->Walgreens<!----></span></span></a><!---->, and<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/origindigitalllc/\" data-test-app-aware-link=\"\"><span><span><!---->Origin<!----></span></span></a><!---->.<!----><span><br></span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/kpmg-us/\" data-test-app-aware-link=\"\"><span><span><!---->KPMG US<!----></span></span></a><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/walgreens/\" data-test-app-aware-link=\"\"><span><span><!---->Walgreens<!----></span></span></a><!---->, who generously supported ODi 2024 as Silver Sponsors, have elevated their commitment this year as Gold Sponsors. We also sincerely thank<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/origindigitalllc/\" data-test-app-aware-link=\"\"><span><span><!---->Origin<!----></span></span></a><span class=\"white-space-pre\"> </span>for continuing its valued partnership as a returning Gold Sponsor.<!----><span><br></span><!---->Your support plays a vital role in making ODi 2025 a truly impactful experience.<!---->",
       "video_link": "",
       "post_order": "0",
+      "image_files": [
+        "/images/7373717337478266880-images-0.webp",
+        "/images/7373717337478266880-images-1.webp",
+        "/images/7373717337478266880-images-2.webp"
+      ]
+    },
+    {
+      "id": "7373354947137974272",
+      "post_date_time": "2025-09-16T10:54:10+08:00",
+      "handle": "depaul-innovation-lab",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7373354947137974272",
+      "is_pinned": "0",
+      "like_count": "80",
+      "comment_count": "2",
+      "is_reposted": "0",
+      "description": "<!---->Last Friday, we held our Fall Quarter Town Hall, where we revisited and refined our vision and mission, celebrated achievements, and gave each other a well-deserved pat on the back. We discussed the exciting projects currently underway, new initiatives on the horizon, and reflected on projects that are wrapping up. We\u2019re looking forward to ODi 2025!<!---->",
+      "video_link": "",
+      "post_order": "1",
+      "image_files": [
+        "/images/7373354947137974272-images-0.webp",
+        "/images/7373354947137974272-images-1.webp",
+        "/images/7373354947137974272-images-2.webp"
+      ]
+    },
+    {
+      "id": "7372267812028874752",
+      "post_date_time": "2025-09-13T10:49:11+08:00",
+      "handle": "depaul-innovation-lab",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7372267812028874752",
+      "is_pinned": "0",
+      "like_count": "21",
+      "comment_count": "0",
+      "is_reposted": "0",
+      "description": "<!---->ODi 2025 Platinum Sponsors!<!----><span><br></span><span><br></span><!---->A Big Thank You to<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/mayer-brown/\" data-test-app-aware-link=\"\"><span><span><!---->Mayer Brown<!----></span></span></a><!---->, Our Platinum Sponsor for ODi 2025!<!----><span><br></span><!---->We are especially excited to share that this year\u2019s conference will be hosted at<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/mayer-brown/\" data-test-app-aware-link=\"\"><span><span><!---->Mayer Brown<!----></span></span></a><!---->. Thank you for your generous contribution and for providing us with this incredible opportunity to bring ODi 2025 at your venue.<!---->",
+      "video_link": "",
+      "post_order": "2",
       "image_files": [
         "/images/7372267812028874752-images-0.webp"
       ]
     },
     {
       "id": "7371543034779459586",
-      "post_date_time": "2025-09-11T11:05:20+08:00",
+      "post_date_time": "2025-09-11T10:44:13+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7371543034779459586",
       "is_pinned": "0",
-      "like_count": "35",
+      "like_count": "36",
       "comment_count": "0",
       "is_reposted": "0",
-      "description": "<!---->A Special Thank You to<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, Our Platinum Sponsor for ODi 2025!<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><span class=\"white-space-pre\"> </span>has been a valued partner of the DePaul iD Lab since 2019, first supporting ODi as a Gold Sponsor and advancing to Platinum Sponsorship in 2022. Their continued commitment has played a vital role in shaping this event and fostering innovation within our community. We are truly grateful for their ongoing partnership.<!---->",
+      "description": "<!---->A Special Thank You to<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, Our Platinum Sponsor for ODi 2025!<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><span class=\"white-space-pre\"> </span>has been a valued partner of the DePaul iD Lab since 2019, first supporting ODi as a Gold Sponsor and advancing to Platinum Sponsorship in 2022. Their continued commitment has played a vital role in shaping this event and fostering innovation within our community. We are truly grateful for their ongoing partnership.<!---->",
       "video_link": "",
-      "post_order": "1",
+      "post_order": "3",
       "image_files": [
         "/images/7371543034779459586-images-0.webp"
       ]
     },
     {
       "id": "7368643870663872512",
-      "post_date_time": "2025-09-08T11:00:22+08:00",
+      "post_date_time": "2025-09-04T10:39:14+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7368643870663872512",
       "is_pinned": "0",
       "like_count": "31",
       "comment_count": "0",
       "is_reposted": "0",
-      "description": "<!---->Member Spotlight: Meet<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/vishakha-kamothi-a4bbb1152/\" id=\"ember515\" class=\"ember-view\"><!---->Vishakha Kamothi<!----></a></span><!---->. She works at the lab as a Data Scientist. Here is what she has to say about working at the iD Lab.<!---->",
+      "description": "<!---->Member Spotlight: Meet<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/vishakha-kamothi-a4bbb1152/\" id=\"ember303\" class=\"ember-view\"><!---->Vishakha Kamothi<!----></a></span><!---->. She works at the lab as a Data Scientist. Here is what she has to say about working at the iD Lab.<!---->",
       "video_link": "",
-      "post_order": "2",
+      "post_order": "4",
       "image_files": [
         "/images/7368643870663872512-images-0.webp"
       ]
     },
     {
       "id": "7364313481631731714",
-      "post_date_time": "2025-08-25T10:55:23+08:00",
+      "post_date_time": "2025-08-28T10:34:16+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7364313481631731714",
       "is_pinned": "0",
-      "like_count": "42",
+      "like_count": "41",
       "comment_count": "2",
       "is_reposted": "1",
       "description": "",
       "video_link": "",
-      "post_order": "3",
+      "post_order": "5",
       "image_files": [
         "/images/7364313481631731714-images-0.webp"
       ]
     },
     {
       "id": "7364295215051890689",
-      "post_date_time": "2025-08-25T10:50:25+08:00",
+      "post_date_time": "2025-08-28T10:29:17+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7364295215051890689",
       "is_pinned": "0",
-      "like_count": "42",
+      "like_count": "41",
       "comment_count": "2",
       "is_reposted": "0",
       "description": "<!---->We are pleased to announce our ODi focus for 2025: From Insights to Strategic Execution!<!---->",
       "video_link": "",
-      "post_order": "4",
+      "post_order": "6",
       "image_files": [
         "/images/7364295215051890689-images-0.webp"
       ]
     },
     {
       "id": "7361396195421835268",
-      "post_date_time": "2025-08-15T10:45:26+08:00",
+      "post_date_time": "2025-08-18T10:24:19+08:00",
       "handle": "depaul-innovation-lab",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7361396195421835268",
       "is_pinned": "0",
-      "like_count": "393",
+      "like_count": "394",
       "comment_count": "6",
       "is_reposted": "0",
-      "description": "<!---->The<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><span class=\"white-space-pre\"> </span>recently wrapped up its second AI Summer Camp for high school students!<!----><span><br></span><!---->Over the course of 3.5 weeks, rising juniors and seniors explored the world of artificial intelligence from foundational concepts to hands-on applications. Guided by the iD Lab staff, students collaborated on AI-powered solutions for<span class=\"white-space-pre\"> </span><a class=\"mdpAqWXcsYVoLayGsqIUZitQXyigbdUOLEI \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, applying their knowledge to real-world challenges.<!----><span><br></span><!---->As part of the program, students also visited leading organizations to gain firsthand experience and learn about their remarkable AI products and innovations.<!----><span><br></span><!---->A huge thank you to everyone who helped make this camp a outstanding success!<!---->",
+      "description": "<!---->The<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><span class=\"white-space-pre\"> </span>recently wrapped up its second AI Summer Camp for high school students!<!----><span><br></span><!---->Over the course of 3.5 weeks, rising juniors and seniors explored the world of artificial intelligence from foundational concepts to hands-on applications. Guided by the iD Lab staff, students collaborated on AI-powered solutions for<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, applying their knowledge to real-world challenges.<!----><span><br></span><!---->As part of the program, students also visited leading organizations to gain firsthand experience and learn about their remarkable AI products and innovations.<!----><span><br></span><!---->A huge thank you to everyone who helped make this camp a outstanding success!<!---->",
       "video_link": "",
-      "post_order": "5",
+      "post_order": "7",
       "image_files": [
         "/images/7361396195421835268-images-0.webp"
+      ]
+    },
+    {
+      "id": "7358142342538649603",
+      "post_date_time": "2025-08-18T10:14:24+08:00",
+      "handle": "depaul-innovation-lab",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7358142342538649603",
+      "is_pinned": "0",
+      "like_count": "45",
+      "comment_count": "2",
+      "is_reposted": "0",
+      "description": "<!---->Last week, we had the pleasure of hosting<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jobin-ephrem-8412131/\" id=\"ember596\" class=\"ember-view\"><!---->Jobin Ephrem<!----></a></span><!---->, as our guest speaker. He led an engaging session in a Q&amp;A format, where our Summer Camp students asked some truly thoughtful and curious questions.<!----><span><br></span><!---->Thank you,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jobin-ephrem-8412131/\" id=\"ember597\" class=\"ember-view\"><!---->Jobin Ephrem<!----></a></span><!---->, for making the session so interactive and thoughtful.<!---->",
+      "video_link": "",
+      "post_order": "8",
+      "image_files": [
+        "/images/7358142342538649603-images-0.webp",
+        "/images/7358142342538649603-images-1.webp"
       ]
     },
     {
@@ -127,23 +180,6 @@
         "/images/7359221937438404608-images-3.webp",
         "/images/7359221937438404608-images-4.webp",
         "/images/7359221937438404608-images-5.webp"
-      ]
-    },
-    {
-      "id": "7358142342538649603",
-      "post_date_time": "2025-08-15T10:35:29+08:00",
-      "handle": "depaul-innovation-lab",
-      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7358142342538649603",
-      "is_pinned": "0",
-      "like_count": "45",
-      "comment_count": "2",
-      "is_reposted": "0",
-      "description": "<!---->Last week, we had the pleasure of hosting<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jobin-ephrem-8412131/\" id=\"ember327\" class=\"ember-view\"><!---->Jobin Ephrem<!----></a></span><!---->, as our guest speaker. He led an engaging session in a Q&amp;A format, where our Summer Camp students asked some truly thoughtful and curious questions.<!----><span><br></span><!---->Thank you,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jobin-ephrem-8412131/\" id=\"ember328\" class=\"ember-view\"><!---->Jobin Ephrem<!----></a></span><!---->, for making the session so interactive and thoughtful.<!---->",
-      "video_link": "",
-      "post_order": "7",
-      "image_files": [
-        "/images/7358142342538649603-images-0.webp",
-        "/images/7358142342538649603-images-1.webp"
       ]
     },
     {
@@ -808,38 +844,24 @@
       ]
     },
     {
-      "id": "7264343054789091328",
-      "post_date_time": "2024-12-17T08:27:03+08:00",
+      "id": "7359221937438404608",
+      "post_date_time": "2025-08-18T10:19:20+08:00",
       "handle": "depaul-innovation-lab",
-      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7264343054789091328",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7359221937438404608",
       "is_pinned": "0",
-      "like_count": "92",
+      "like_count": "65",
       "comment_count": "1",
       "is_reposted": "0",
-      "description": "<!---->\ud83d\ude80 Fireside Chat with Neal Sample: Designing an Intelligent Future<!----><span><br></span><span><br></span><!---->At the ODi Conference, we had the honor of hosting a compelling Fireside Chat featuring<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nealsample/\" id=\"ember3071\" class=\"ember-view\"><!---->Neal Sample<!----></a></span><!---->, CIO at<span class=\"white-space-pre\"> </span><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/walgreens-boots-alliance/\" data-test-app-aware-link=\"\"><span><span><!---->Walgreens Boots Alliance<!----></span></span></a><!---->, a visionary technologist dedicated to driving innovation and elevating digital experiences for customers and patients. Moderated by the brilliant<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yele-adelakun-8019266/\" id=\"ember3072\" class=\"ember-view\"><!---->Yele Adelakun<!----></a></span><!---->, the discussion explored \"Designing an Intelligent Future\".<!----><span><br></span><span><br></span><!---->Key Highlights:<span class=\"white-space-pre\"> </span><span><br></span><!---->\ud83d\udd35 Balanced Approach: Neal emphasized the 20/80 principle, where 20% of efforts are focused on innovation exploring forward-thinking ideas and 80% on operational excellence to ensure reliability and scalability.<!----><span><br></span><span><br></span><!---->\ud83d\udd35 Sourcing Ideas: He explained how ideas for innovation stem from trends, consumer needs, and a forward-looking mindset. By asking, \"What can we adopt or adapt to create impact?\", organizations can prioritize meaningful and relevant solutions.<!----><span><br></span><span><br></span><!---->\ud83d\udd35 Bringing Ideas to Life:&nbsp;Neal highlighted how the approach varies based on the type, scale, cost, and risk of each initiative. As a test-and-learn organization, decisions are made dynamically, with some projects handled internally to maximize impact.<!----><span><br></span><span><br></span><!---->This Fireside Chat was a masterclass in balancing innovation with operations to build a future-ready digital landscape. Thank you, Neal and Yele, for sharing your expertise and sparking ideas for what\u2019s next!<span class=\"white-space-pre\"> </span><span><br></span><span><br></span><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23odi2024&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>ODi2024</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23firesidechat&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>FiresideChat</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23innovation&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>Innovation</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23digitaltransformation&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>DigitalTransformation</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23idlab&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>iDLab</span></a>",
+      "description": "<!---->As the culmination of the<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><span class=\"white-space-pre\"> </span>AI Summer Camp 2025, four student teams presented innovative GenAI projects focused on building Retrieval-Augmented Generation (RAG) systems for medical devices research.<!----><span><br></span><span><br></span><!---->Each team explored distinct approaches from Graph RAG and advanced chunking techniques to thoughtful evaluation strategies by tackling complex challenges in healthcare AI. The architectures designed presented an impressive understanding of real-world AI applications.<!----><span><br></span><span><br></span><!---->Congratulations to winning team<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanmay-garg-5305a8342/\" id=\"ember547\" class=\"ember-view\"><!---->Tanmay Garg<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/joseph-nowak-410538376/\" id=\"ember548\" class=\"ember-view\"><!---->Joe Nowak<!----></a></span><span class=\"white-space-pre\"> </span>and Sanjith Yelavarthy for an outstanding showing at the AI Summer Camp showcase!<!----><span><br></span><span><br></span><!---->A huge shoutout to<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/aarathi-maheswaraguru-5b9618374/\" id=\"ember549\" class=\"ember-view\"><!---->Aarathi Maheswaraguru<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/rian-jain-89820a378/\" id=\"ember550\" class=\"ember-view\"><!---->Rian Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/carlos-munoz-952557346/\" id=\"ember551\" class=\"ember-view\"><!---->Carlos Munoz<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/angelina-huang-1b1655343/\" id=\"ember552\" class=\"ember-view\"><!---->Angelina Huang<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/nicole-niewiadomski-90b6b729b/\" id=\"ember553\" class=\"ember-view\"><!---->Nicole Niewiadomski<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jenine-jain-54a53131b/\" id=\"ember554\" class=\"ember-view\"><!---->Jenine Jain<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/sreechand-uppalapu-0a1506294/\" id=\"ember555\" class=\"ember-view\"><!---->Sreechand Uppalapu<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/tanaydoshi/\" id=\"ember556\" class=\"ember-view\"><!---->Tanay Doshi<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/luqman-syed-a80444320/\" id=\"ember557\" class=\"ember-view\"><!---->Luqman Syed<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yash-kaushik-22a515376/\" id=\"ember558\" class=\"ember-view\"><!---->Yash Kaushik<!----></a></span><!---->,<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/zachary-e-wong/\" id=\"ember559\" class=\"ember-view\"><!---->Zachary Wong<!----></a></span><span class=\"white-space-pre\"> </span>and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/patryk-kasprzyk-5a390a31b/\" id=\"ember560\" class=\"ember-view\"><!---->Patryk Kasprzyk<!----></a></span><span class=\"white-space-pre\"> </span>for your hard work and creativity.<!----><span><br></span><span><br></span><!---->The session concluded with insightful feedback and engaging discussion, thanks to our amazing judges<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/jennifer-wimberly-47731949/\" id=\"ember561\" class=\"ember-view\"><!---->Jennifer Wimberly<!----></a></span><!---->, Director of IT and Data Analytics at<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/abbott-/\" data-test-app-aware-link=\"\"><span><span><!---->Abbott<!----></span></span></a><!---->, and<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yele-adelakun-8019266/\" id=\"ember562\" class=\"ember-view\"><!---->Yele Adelakun<!----></a></span><!---->, Founder &amp; Director of the<span class=\"white-space-pre\"> </span><a class=\"lHlVQYNdittsZtIMmydEszOwdsHtIQanw \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><!---->.<!---->",
       "video_link": "",
-      "post_order": "43",
+      "post_order": "9",
       "image_files": [
-        "/images/7264343054789091328-images-0.jpg",
-        "/images/7264343054789091328-images-1.jpg",
-        "/images/7264343054789091328-images-2.jpg"
-      ]
-    },
-    {
-      "id": "7264043180654755841",
-      "post_date_time": "2024-12-17T08:22:04+08:00",
-      "handle": "depaul-innovation-lab",
-      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7264043180654755841",
-      "is_pinned": "0",
-      "like_count": "76",
-      "comment_count": "2",
-      "is_reposted": "0",
-      "description": "<!---->A Heartfelt Thank You to Our Founder!<span class=\"white-space-pre\"> </span><span><br></span><span><br></span><!---->We at<span class=\"white-space-pre\"> </span><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" target=\"_self\" tabindex=\"0\" href=\"https://www.linkedin.com/company/depaul-innovation-lab/\" data-test-app-aware-link=\"\"><span><span><!---->DePaul iD Lab<!----></span></span></a><span class=\"white-space-pre\"> </span>are proud to celebrate the success of the recent Optimizing Digital Innovation (ODi) Conference 2024, hosted under the visionary leadership of<span class=\"white-space-pre\"> </span><span><a tabindex=\"0\" href=\"/in/yele-adelakun-8019266/\" id=\"ember2943\" class=\"ember-view\"><!---->Yele Adelakun<!----></a></span><!---->. This event brought together leading minds from academia and industry to explore groundbreaking strategies shaping the future of digital innovation.<span class=\"white-space-pre\"> </span><span><br></span><span><br></span><!---->The ODi Conference reflects our commitment to fostering collaboration and driving transformative ideas. It has set a new benchmark for innovation-driven initiatives, and we are excited for what\u2019s ahead.<!----><span><br></span><span><br></span><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23digitalinnovation&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>DigitalInnovation</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23odi2024&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>ODi2024</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23leadership&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>Leadership</span></a><span class=\"white-space-pre\"> </span><!----><!----><a class=\"gaFOIOFxLtpezAbmrKkjnanPJApgbssrIwIoRU \" tabindex=\"0\" href=\"https://www.linkedin.com/search/results/all/?keywords=%23idlab&amp;origin=HASH_TAG_FROM_FEED\" data-test-app-aware-link=\"\"><span><span aria-hidden=\"true\">#</span>iDLab</span></a>",
-      "video_link": "",
-      "post_order": "44",
-      "image_files": [
-        "/images/7264043180654755841-images-0.jpg",
-        "/images/7264043180654755841-images-1.jpg"
+        "/images/7359221937438404608-images-0.webp",
+        "/images/7359221937438404608-images-1.webp",
+        "/images/7359221937438404608-images-2.webp",
+        "/images/7359221937438404608-images-3.webp",
+        "/images/7359221937438404608-images-4.webp",
+        "/images/7359221937438404608-images-5.webp"
       ]
     }
   ]
